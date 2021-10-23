@@ -2,6 +2,7 @@
 # This program is implemented using stack.
 
 class Stack:
+    # Special method to initialize the attributes.
     def __init__(self):
         self.s_data = []
 
